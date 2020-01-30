@@ -1,2 +1,1 @@
-# tindog
-Class Project - TinDog
+TinDog Starting Files
